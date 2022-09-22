@@ -34,7 +34,7 @@
 
 ## :dart: About
 
-Find any word or phrase of the text with the search bar.
+Arrays function in JS
 
 <!-- ## :sparkles: Features
 :heavy_check_mark: You can set interval between rounds \
@@ -60,7 +60,7 @@ or open in browser ( <a href="https://sevetoo.github.io/fun-js" >click link</a> 
 
 ## 😎 Made by
 
-Made with by <a href="https://github.com/SeveToo" target="_blank">SeveTo</a>
+Made ❤ with by <a href="https://github.com/SeveToo" target="_blank">SeveTo</a>
 
 &#xa0;
 
